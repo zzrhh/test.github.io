@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Guo,Shangwei - CQU   "
+title                    : "Shangwei Guo - CQU   "
 title_separator          : "-"
 name                     : &name "GSW"
 description              : &description "personal description :)"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "GuoShang wei"
+  name             : "Shangwei Guo"
   avatar           : "Guo.png"
-  bio              : "Postdoctoral Research Fellow Nanyang Technological University "
+  bio              : "Graduate tutor of Chongqing University"
   location         : "CQU,CHONQING"
   employer         : #"Guoshang wei"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
