@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shangwei Guo - CQU   "
+title                    : "Zhirui Zeng - CQU   "
 title_separator          : "-"
-name                     : &name "GSW"
+name                     : &name "ZZR"
 description              : &description "personal description :)"
 url                      : 'https://zzrhh.github.io' # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shangwei Guo"
-  avatar           : "Guo.png"
-  bio              : "Graduate tutor of Chongqing University"
+  name             : "Zhirui Zeng"
+  avatar           : "zzr.jpg"
+  bio              : "Graduate student of Chongqing University"
   location         : "CQU,CHONQING"
   employer         : #"Guoshang wei"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com.hk/citations?user=wQrVkBYAAAAJ&hl=zh-CN"
-  email            : "shangwei.guo@ntu.edu.sg"
+  googlescholar    : #"https://scholar.google.com.hk/citations?user=wQrVkBYAAAAJ&hl=zh-CN"
+  email            : "zhiruizeng@cqu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         : #"balabala"
   foursquare       :
-  github           : "gswei5555"
+  github           : "https://github.com/zzrhh"
   google_plus      :
   keybase          :
   instagram        :
