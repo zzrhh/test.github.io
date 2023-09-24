@@ -7,4 +7,4 @@ author_profile: true
 #   - /resume
 ---
 
-http://zzrhh.github.io/files/zzr_cv.pdf  
+[Link](http://zzrhh.github.io/files/zzr_cv.pdf)
