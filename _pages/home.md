@@ -14,7 +14,7 @@ Zeng, Zhirui is a graduate student at Cyber Security Lab, School of Computer Sci
 - Large-scale Language Model Security
 - Multimodal Model Security
 - Adversarial Machine Learning
-- Natural Language Process
+- Natural Language Processing
 
 ## Education
 
